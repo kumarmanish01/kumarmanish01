@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarmanish01
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, Android
+- 🌱 I’m currently working as a Software Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mk900650@gmail.com
 
